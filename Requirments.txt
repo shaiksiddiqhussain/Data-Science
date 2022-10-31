@@ -1,0 +1,10 @@
+pandas==1.4.2
+numpy==1.21.5
+newspaper3k==0.2.8
+scipy==1.7.3
+gspread==5.6.2
+sklearn==0.0
+TPOT==0.11.7
+SVR==0.5
+joblib==1.1.0
+cloudpickle==2.0.0
